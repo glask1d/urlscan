@@ -9,6 +9,8 @@ single Python 3 script with colored output.
 No third-party packages. Copy `urlscan.py` onto a box with Python 3.10+ and
 run it.
 
+![urlscan](images/urlscan.png)
+
 ```text
 urlscan search  page.domain:example.com AND date:>now-7d · showing 3 of 3286
 
